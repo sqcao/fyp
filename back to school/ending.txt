@@ -1,0 +1,8 @@
+[win ending]
+You have won the game, and you become the class representitive.
+Jandon accept his failure and told you that he will study harder
+and will beat you next time.
+
+[lost ending]
+You have lost the game, and Jandon has become the class representitive.
+And you told yourself to study very hard and challenge Jandon next time...

@@ -1,0 +1,16 @@
+[win first time]
+I win! Jandon, you still want to challenge me?
+You still have chance to quit now, Jandon.
+
+[win more than one time]
+I win again! Jandon, if I were you I will surrender!
+You lost again Jandon, what do you want to say this time?
+Jandon, you should know you have no chance to win me!
+
+[lost first time]
+Cher, let you win one time Jandon!
+Do you think you will win all the time?
+
+[lost more than one time]
+Don't be so confident! I will win it back!
+Next time I will beat you, I swear!

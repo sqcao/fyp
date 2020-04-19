@@ -1,0 +1,27 @@
+[wordbrain]
+You will be given a randomly arranged English word,
+and you are asked to answer the correct spelling.
+Who first spell the correct word will be the winner.
+
+[reaction]
+You will be given a randomly arranged direction symbol
+such that: 'v<>^v', and you are asked to type the same
+symbols.
+Who first type the same symbols will be the winner.
+
+[country]
+You will be given a country name each time, and you 
+are asked to type the capital of the given country.
+Who first type the correct capital name will be the
+winner.
+
+[math]
+You will be given a simple math question, and you are
+asked to type the correct the answer for the calculation.
+Who first type the correct answer will be the winner.
+
+[language]
+You will be given a language which the meaning  is 
+'hello' in English, and you are asked to recognize which
+language it is.
+Who first type the correct language will be the winner.

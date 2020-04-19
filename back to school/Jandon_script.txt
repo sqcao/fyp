@@ -1,0 +1,16 @@
+[win first time]
+I win! I told you I am the top student in this school!
+I will always win, watch it!
+
+[win more than one time]
+I win again! I suggest you surrender!
+You lost again, how do you explain this time?
+Give up!You have no chance to win me!
+
+[lost first time]
+Listen, this time is because I let you win!
+This is the first time, also the last time!
+
+[lost more than one time]
+You will not be so lucky everytime! I will show you that you win is all because of your luck!
+Next time I will beat you, watch it!
