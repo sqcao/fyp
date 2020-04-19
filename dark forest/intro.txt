@@ -1,0 +1,12 @@
+				Welcome to Dark Forest
+You are wake up in this strange dark forest, the room is too dark that you cannot see anything...
+You need to find the key in the room in order to escape...
+
+Inside the room might have evil dragon that can kill you, also have delicious food to increase your energy. What you need to do is prevent being eat by dinasour and find the key before use up your energy.
+In each round, you can choose a direction to move.
+
+Inside this forest there will be dragons, key, lotus and trees. Explore it and escape from it!
+
+NOTE:
+Y indicate your position
+X indicate the path that you visited before
