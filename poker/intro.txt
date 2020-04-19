@@ -1,0 +1,31 @@
+*RUN FAST*
+Welcome to RUN FAST!
+This is a poker card game, total there will be four player,
+including three computers and you.
+
+[RULES OF GAME]
+
+1. How to win?
+Player who first use up all his/her card will be the winner.
+
+2. What cards pattern will be valid?
+There are four valid cards patterns:
+(1)sequence (such as 1,2,3,4,5 as long as more than three continuous cards)
+(2)continuous three pattern (such as 3,3,3 or 3,3,3,4,4,4 or more)
+(3)couple or continuous couple pattern (such as 2,2 or 2,2,3,3,4,4 or more)
+(4)single card (such as 1 or A)
+
+3. How should I enter cards that I want to use?
+(1)Please enter the full name of the card (for example, Hearts_3.
+For more than one card, please separate them by comma such as
+Spades_4,Hearts_3)
+(2)*Capitalization matters
+(3)Note that please enter the cards that you wish to use 
+in the original order (that is from bigger value to smaller value)
+
+
+NOTE:
+Since the AI in this game is designed in pretty simple way,
+in order to slow down the game pace, other than valid cards pattern,
+things like four or other cards patterns are not allowed in this game.
+(for example, 4,4,4,4 is not allowed)
