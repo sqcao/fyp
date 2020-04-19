@@ -1,0 +1,3 @@
+weekday : 7am - 20pm
+saturday : 7am - 14pm
+sunday  : closed

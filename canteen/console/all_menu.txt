@@ -1,0 +1,40 @@
+Macdonald
+1.McSpicy
+2.BigMac
+3.DoubleCheese
+
+Macdonald-bf
+1.Chicken muffin
+2.Sausage muffin
+3.Breakfast deluxe 
+
+Subway
+1.Spicy Italian Sub
+2.Meatball Marinara Melt Sub
+3.Teriyaki chicken Sub
+
+Western
+1.Chicken chop
+2.Pork chop
+3.Beef bolognese
+
+Western-bf
+1.American breakfast
+2.Pancake set
+3.Ham and Cheese sandwich
+
+Chicken rice
+1.Roasted chicken
+2.Steamed chicken
+3.lemon chicken cutlet
+
+Malay-135
+1.Nasi lemak
+2.Nasi Goreng
+3.Laksa
+
+Malay-246
+1.Mee siam
+2.Nasi Padang
+3.Mee Soto
+

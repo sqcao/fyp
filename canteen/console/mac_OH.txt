@@ -1,0 +1,3 @@
+Weekday : 7am  - 24pm
+Saturday : 7am  - 24pm
+Sunday  : 10am - 22pm

@@ -1,0 +1,26 @@
+Macdonald
+breakfast:7am-11am
+weekday:7am-24pm
+saturday:7am-24pm
+sunday:10am-22pm
+
+Subway
+weekday:8am-21pm
+saturday:11am-18pm
+sunday:11am-18pm
+
+Western
+breakfast:7am-11am
+weekday:7am-20pm
+saturday:7am-14pm
+sunday:closed
+
+Chicken rice
+weekday:10am-20pm
+saturday:10am-14pm
+sunday:closed
+
+Malay
+weekday:10am-20pm
+saturday:10am-14pm
+sunday:closed
