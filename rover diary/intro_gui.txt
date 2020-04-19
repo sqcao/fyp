@@ -1,0 +1,25 @@
+Welcome to Rover Diary, this is a text-based adventure game,
+you are a young man who want to become the greatest man in
+the world.
+
+The game period is 100 days, along the way you will meet many
+enermy and you will need to beat them to get your living necessity
+and make yourself stronger.
+There are also some challenges waiting for you, be careful as they
+are normally very strong, beat them and you will get very valuealbe
+rewards!
+
+*Your final goal is to stay alive until Day 100 and beat the final boss
+
+		= often asked questions =
+
+1. What I can do in the game?
+Explore, fight, manufacture... 
+There are lots of things you can do in this game.
+
+2. When is game over?
+(1) Reach 100 days, beat the final boss and you are the greatest man
+in the world!
+(2) If life decrease to zero, ending will be triggered.
+	-> hungary decrease to zero, life will - 1 everyday
+	-> HP decrease to zero, life will - 1
